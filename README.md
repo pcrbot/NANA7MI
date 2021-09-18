@@ -63,7 +63,7 @@ RES_DIR = r'X:/xxx/'
 
 或者
 
-``./root/xxx/nana7mi/...``
+``./root/xxx/record/nana7mi/...``
 
 如果Release下载速度不理想，可尝试下列途径：
 <details>
